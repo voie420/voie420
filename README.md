@@ -1,7 +1,6 @@
 **📨 Contact: mathiasvj@outlook.com**<br/><br/>
 **💻 Development Languages:**
--  *Javascript*
--  *Typescript*
+-  *Javascript/Typescript*
 -  *CSS/HTML/TAILWIND*
 -  *PHP*
 -  *EJS*
