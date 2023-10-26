@@ -1,5 +1,5 @@
-**<p>📨 Contact: mathiasvj@outlook.com</p>**<br/>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=voie420"/><br/>
+**<p>📨 Contact: mathiasvj@outlook.com</p>**
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=voie420"/>
 **<p>💻 Development Languages:</p>**
 -  *Javascript/Typescript*
 -  *CSS/HTML/TAILWIND*
