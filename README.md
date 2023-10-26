@@ -1,5 +1,5 @@
 **📨 Contact: mathiasvj@outlook.com**<br/>
-**Languages:**
+**Coding Languages:**
 -  Javascript
 -  Typescript
 -  CSS/HTML
