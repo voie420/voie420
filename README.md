@@ -2,7 +2,7 @@
 💻 Coding Languages:
 -  **Javascript**
 -  **Typescript**
--  **CSS/HTML**
+-  **CSS/HTML/TAILWIND**
 -  **PHP**
 -  **EJS**
 
