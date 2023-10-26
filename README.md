@@ -1,4 +1,4 @@
-**📨 Contact: mathiasvj@outlook.com**<br/>
+**📨 Contact: mathiasvj@outlook.com**<br/><br/>
 **Coding Languages:**
 -  Javascript
 -  Typescript
